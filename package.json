@@ -1,0 +1,15 @@
+{
+  "name": "treturner",
+  "version": "0.0.0",
+  "description": "",
+  "main": "treturner.js",
+  "scripts": {
+    "start": "node treturner",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
